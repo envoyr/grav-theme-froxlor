@@ -1,4 +1,4 @@
-# Learn4 Theme
+# Froxlor Theme
 
 ![](assets/learn4-screenshots.jpg)
 
