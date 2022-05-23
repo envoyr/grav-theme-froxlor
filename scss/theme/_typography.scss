@@ -321,7 +321,7 @@ ol {
 }
 
 #navigation {
-    a.github-link {
+	a.github-link, a.discord-link {
         font-size: inherit !important;
         display: flex;
         justify-content: center;
