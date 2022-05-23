@@ -4,8 +4,11 @@ grid-size: grid-lg
 github:
   note: true
   link: true
-  tree: https://github.com/envoyr/grav-theme-froxlor/blob/develop/
-  commits: https://github.com/envoyr/grav-theme-froxlor/commits/develop/
+  tree: https://github.com/Froxlor/Documentation/blob/master/
+  commits: https://github.com/Froxlor/Documentation/commits/master/
+discord:
+  link: true
+  href: https://discord.froxlor.org/
 spectre:
   exp: false
   icons: false

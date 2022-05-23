@@ -10,6 +10,9 @@
   {% endif %}
 
   <div id="navigation">
+    {% if theme_var('discord.link') %}
+      {% include 'partials/discord-link.html.twig' %}
+    {% endif %}
     {% if theme_var('github.link') %}
       {% include 'partials/github-link.html.twig' %}
     {% endif %}
