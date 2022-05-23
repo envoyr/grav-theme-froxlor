@@ -1,8 +1,8 @@
 {
-  "name": "Froxlor",
+  "name": "froxlor",
   "version": "1.0.0",
   "main": "app/main.js",
-  "author": "Team Grav & envoyr",
+  "author": "froxlor Team & Grav Team",
   "license": "MIT",
   "scripts": {
     "watch": "NODE_ENV=development webpack --watch --progress --mode development --config webpack.conf.js",

@@ -3,7 +3,7 @@ namespace Grav\Theme;
 
 use Grav\Common\Theme;
 use Grav\Plugin\ShortcodeManager;
-use Grav\Theme\Learn4\Shortcodes\VersionShortcode;
+use Grav\Theme\Froxlor\Shortcodes\VersionShortcode;
 use Pimple\Exception\UnknownIdentifierException;
 use RocketTheme\Toolbox\Event\Event;
 

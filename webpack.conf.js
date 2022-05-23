@@ -5,7 +5,7 @@ var webpack = require('webpack'),
 
 module.exports = {
     entry: {
-        learn4: './app/main.js'
+        froxlor: './app/main.js'
     },
     devtool: isProd ? false : 'eval-source-map',
     target: 'web',

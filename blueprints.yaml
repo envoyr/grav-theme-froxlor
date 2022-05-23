@@ -1,16 +1,15 @@
-name: Learn4
-version: 2.0.0-rc.1
+name: froxlor
+version: 1.0.0-rc.1
 testing: true
-description: New Grav Default Theme
+description: froxlor Documentation Theme
 icon:  microchip
 author:
-  name: Team Grav
-  email: devs@getgrav.org
-  url: http://getgrav.org
-homepage: https://github.com/getgrav/grav-theme-learn4
-demo: https://demo.getgrav.org/onepage-skeleton
-keywords: learn4, spectre, theme, core, modern, fast, responsive, html5, css3
-bugs: https://github.com/getgrav/grav-theme-learn4/issues
+  name: froxlor Team & Grav Team
+  email: team@froxlor.org
+  url: https://docs.froxlor.org
+homepage: https://github.com/envoyr/grav-theme-froxlor
+keywords: froxlor, documentation
+bugs: https://github.com/envoyr/grav-theme-froxlor/issues
 license: MIT
 
 dependencies:
@@ -23,7 +22,7 @@ form:
     production-mode:
       type: toggle
       label: Production mode
-      help: When enabled, Learn4 will render with minified CSS
+      help: When enabled, the froxlor theme will render with minified CSS
       highlight: 1
       default: 1
       options:
