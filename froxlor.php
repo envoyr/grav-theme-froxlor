@@ -7,7 +7,7 @@ use Grav\Theme\Learn4\Shortcodes\VersionShortcode;
 use Pimple\Exception\UnknownIdentifierException;
 use RocketTheme\Toolbox\Event\Event;
 
-class Learn4 extends Theme
+class Froxlor extends Theme
 {
     public static function getSubscribedEvents(): array
     {
