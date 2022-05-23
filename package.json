@@ -1,8 +1,8 @@
 {
-  "name": "Learn4",
+  "name": "Froxlor",
   "version": "1.0.0",
   "main": "app/main.js",
-  "author": "Team Grav",
+  "author": "Team Grav & envoyr",
   "license": "MIT",
   "scripts": {
     "watch": "NODE_ENV=development webpack --watch --progress --mode development --config webpack.conf.js",
