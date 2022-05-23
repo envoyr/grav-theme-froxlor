@@ -48,7 +48,7 @@ class Froxlor extends Theme
     {
         $twig = $this->grav['twig'];
 
-        $form_class_variables = [
+        $form_class_variables = [0
 //            'form_outer_classes' => 'form-horizontal',
             'form_button_outer_classes' => 'button-wrapper',
             'form_button_classes' => 'btn',
