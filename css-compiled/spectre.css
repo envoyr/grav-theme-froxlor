@@ -221,7 +221,7 @@ html:lang(ko), .lang-ko { font-family: -apple-system, system-ui, BlinkMacSystemF
 
 .table th { border-bottom-width: 0.1rem; }
 
-.btn, .button { -webkit-appearance: none; -moz-appearance: none; appearance: none; background: #fff; border: 0.05rem solid #1A73EC; border-radius: 0.1rem; color: #1A73EC; cursor: pointer; display: inline-block; font-size: 0.85rem; height: 1.8rem; line-height: 1.2rem; outline: none; padding: 0.25rem 0.4rem; text-align: center; text-decoration: none; transition: background .2s, border .2s, box-shadow .2s, color .2s; -webkit-user-select: none; -ms-user-select: none; user-select: none; vertical-align: middle; white-space: nowrap; }
+.btn, .button { -webkit-appearance: none; appearance: none; background: #fff; border: 0.05rem solid #1A73EC; border-radius: 0.1rem; color: #1A73EC; cursor: pointer; display: inline-block; font-size: 0.85rem; height: 1.8rem; line-height: 1.2rem; outline: none; padding: 0.25rem 0.4rem; text-align: center; text-decoration: none; transition: background .2s, border .2s, box-shadow .2s, color .2s; -webkit-user-select: none; -ms-user-select: none; user-select: none; vertical-align: middle; white-space: nowrap; }
 
 .btn:focus, .button:focus { box-shadow: 0 0 0 0.1rem rgba(26, 115, 236, 0.2); }
 
@@ -311,7 +311,7 @@ legend { font-size: 0.9rem; font-weight: 500; margin-bottom: 0.8rem; }
 
 .form-label.label-lg { font-size: 0.9rem; padding: 0.4rem 0; }
 
-.form-input, .search-input, [data-grav-field="array"] input, [data-grav-field="array"] textarea { -webkit-appearance: none; -moz-appearance: none; appearance: none; background: #fff; background-image: none; border: 0.05rem solid #caced7; border-radius: 0.1rem; color: #3a414e; display: block; font-size: 0.85rem; height: 1.8rem; line-height: 1.2rem; max-width: 100%; outline: none; padding: 0.25rem 0.4rem; position: relative; transition: background .2s, border .2s, box-shadow .2s, color .2s; width: 100%; }
+.form-input, .search-input, [data-grav-field="array"] input, [data-grav-field="array"] textarea { -webkit-appearance: none; appearance: none; background: #fff; background-image: none; border: 0.05rem solid #caced7; border-radius: 0.1rem; color: #3a414e; display: block; font-size: 0.85rem; height: 1.8rem; line-height: 1.2rem; max-width: 100%; outline: none; padding: 0.25rem 0.4rem; position: relative; transition: background .2s, border .2s, box-shadow .2s, color .2s; width: 100%; }
 
 .form-input:focus, .search-input:focus, [data-grav-field="array"] input:focus, [data-grav-field="array"] textarea:focus { box-shadow: 0 0 0 0.1rem rgba(26, 115, 236, 0.2); border-color: #1A73EC; }
 
@@ -337,7 +337,7 @@ textarea.form-input, textarea.search-input, [data-grav-field="array"] textarea, 
 
 .has-error .form-input-hint, .is-error + .form-input-hint { color: #e85600; }
 
-.form-select { -webkit-appearance: none; -moz-appearance: none; appearance: none; border: 0.05rem solid #caced7; border-radius: 0.1rem; color: inherit; font-size: 0.85rem; height: 1.8rem; line-height: 1.2rem; outline: none; padding: 0.25rem 0.4rem; vertical-align: middle; width: 100%; background: #fff; }
+.form-select { -webkit-appearance: none; appearance: none; border: 0.05rem solid #caced7; border-radius: 0.1rem; color: inherit; font-size: 0.85rem; height: 1.8rem; line-height: 1.2rem; outline: none; padding: 0.25rem 0.4rem; vertical-align: middle; width: 100%; background: #fff; }
 
 .form-select:focus { box-shadow: 0 0 0 0.1rem rgba(26, 115, 236, 0.2); border-color: #1A73EC; }
 

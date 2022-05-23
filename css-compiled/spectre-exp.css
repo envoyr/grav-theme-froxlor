@@ -27,7 +27,7 @@
 
 .calendar .calendar-date { border: 0; padding: 0.2rem; }
 
-.calendar .calendar-date .date-item { -webkit-appearance: none; -moz-appearance: none; appearance: none; background: transparent; border: 0.05rem solid transparent; border-radius: 50%; color: #667189; cursor: pointer; font-size: 0.7rem; height: 1.4rem; line-height: 1rem; outline: none; padding: 0.1rem; position: relative; text-align: center; text-decoration: none; transition: background .2s, border .2s, box-shadow .2s, color .2s; vertical-align: middle; white-space: nowrap; width: 1.4rem; }
+.calendar .calendar-date .date-item { -webkit-appearance: none; appearance: none; background: transparent; border: 0.05rem solid transparent; border-radius: 50%; color: #667189; cursor: pointer; font-size: 0.7rem; height: 1.4rem; line-height: 1rem; outline: none; padding: 0.1rem; position: relative; text-align: center; text-decoration: none; transition: background .2s, border .2s, box-shadow .2s, color .2s; vertical-align: middle; white-space: nowrap; width: 1.4rem; }
 
 .calendar .calendar-date .date-item.date-today { border-color: #8340a0; color: #1A73EC; }
 
@@ -145,7 +145,7 @@
 
 .filter .filter-body { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
 
-.meter { -webkit-appearance: none; -moz-appearance: none; appearance: none; background: #f8f9fa; border: 0; border-radius: 0.1rem; display: block; width: 100%; height: 0.8rem; }
+.meter { -webkit-appearance: none; appearance: none; background: #f8f9fa; border: 0; border-radius: 0.1rem; display: block; width: 100%; height: 0.8rem; }
 
 .meter::-webkit-meter-inner-element { display: block; }
 
@@ -225,7 +225,7 @@
 
 .parallax .parallax-bottom-right:focus ~ .parallax-content .parallax-front, .parallax .parallax-bottom-right:hover ~ .parallax-content .parallax-front { transform: translate3d(-4.5px, -4.5px, 50px) scale(0.95); }
 
-.progress { -webkit-appearance: none; -moz-appearance: none; appearance: none; background: #f0f1f4; border: 0; border-radius: 0.1rem; color: #1A73EC; height: 0.2rem; position: relative; width: 100%; }
+.progress { -webkit-appearance: none; appearance: none; background: #f0f1f4; border: 0; border-radius: 0.1rem; color: #1A73EC; height: 0.2rem; position: relative; width: 100%; }
 
 .progress::-webkit-progress-bar { background: transparent; border-radius: 0.1rem; }
 
@@ -240,7 +240,7 @@
 @keyframes progress-indeterminate { 0% { background-position: 200% 0; }
   100% { background-position: -200% 0; } }
 
-.slider { -webkit-appearance: none; -moz-appearance: none; appearance: none; background: transparent; display: block; width: 100%; height: 1.2rem; }
+.slider { -webkit-appearance: none; appearance: none; background: transparent; display: block; width: 100%; height: 1.2rem; }
 
 .slider:focus { box-shadow: 0 0 0 0.1rem rgba(26, 115, 236, 0.2); outline: none; }
 
